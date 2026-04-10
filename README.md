@@ -97,7 +97,7 @@ This repository currently provides:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iLearn-Lab/SG-SCI.git
+git clone https://github.com/iLearn-Lab/MM24-SG-SCI.git
 cd SG-SCI
 ```
 
@@ -117,7 +117,7 @@ $ source activate sg-sci
 
 ## Checkpoints
 
-The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1C61gJJCOHDOeIxH058iJlzz_n2VDZXUL?usp=sharing).
+The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1C61gJJCOHDOeIxH058iJlzz_n2VDZXUL?usp=sharing) & [Hugging Face](https://huggingface.co/iLearn-Lab/MM24-SG-SCI).
 
 ---
 
